@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #e60000 ;
+}
+h1 {
+  color: White;
+  background-color: #191919;
+  text-align: center;
+}
+blackgoose.png{
+  text-align: center;
+}
+h3{
+  font-display: Times;
+}
+h2{
+  text-align: center;
+}
+p{ 
+font-display: Times;
+  text-align: center;
+}
+form{
+  text-align: center;
+}
+button{
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h2 {
+  background-color: #87CEEB;
+  color: blue  
+   }
+a2{
+  color: blue;
+}
+.ribbon {
+   position: absolute;
+   top: auto;
+   right: 50px;
+  size-adjust: 800%;
+}
+table, th, td {
+  border: 1px solid black;
+}
